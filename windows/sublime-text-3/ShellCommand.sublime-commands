@@ -1,0 +1,9 @@
+[
+  {
+    "keys": ["ctrl+s"],
+    "command": "shell_command",
+    "args": {
+      "command": "cat ${file}"
+    }
+  }
+]

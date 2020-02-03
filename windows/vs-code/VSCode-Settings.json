@@ -1,0 +1,29 @@
+{
+    "spotify.showPlayButton": true,
+    "window.zoomLevel": 0,
+    "git.confirmSync": false,
+    "git.autofetch": true,
+    "workbench.startupEditor": "newUntitledFile",
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+    "terminal.integrated.shellArgs.windows": [
+      "/k C:\\Cmder\\vendor\\init.bat"
+    ],
+    "diffEditor.renderSideBySide": false,
+    "files.eol": "\n",
+    "workbench.colorTheme": "Monokai ST3",
+    "editor.minimap.showSlider": "always",
+    "javascript.suggest.autoImports": false,
+    "breadcrumbs.enabled": false,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "workbench.iconTheme": "vscode-icon-theme",
+    "workbench.editor.tabSizing": "shrink",
+    "diffEditor.ignoreTrimWhitespace": true,
+    "workbench.useExperimentalGridLayout": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "workbench.colorCustomizations": {
+      "tab.border": "#414339",
+      "tab.activeBackground": "#026b6e",
+      "tab.activeBorder":  "#026b6e",
+    }
+}

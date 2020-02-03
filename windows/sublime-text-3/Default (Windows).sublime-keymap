@@ -1,0 +1,10 @@
+[
+    { 
+        "keys": ["alt+q"], 
+        "command": "toggle_terminus_panel" 
+    },
+    {
+        "keys": ["ctrl+e"],
+        "command": "format_eslint"
+    }
+]

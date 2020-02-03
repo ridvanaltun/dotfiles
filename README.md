@@ -2,11 +2,11 @@
 
 Burası geliştirme yaparken kullandığım programların ayarlarının tutulduğu bir repo.
 
-Geliştirme ortamım `Windows 10 Pro`, kendisini `WSL` ile birlikte kullanıyorum, zira buradaki çoğu ayar WSL içinde kullandığım ayarlar.
+Geliştirme yaparken kullandığım işletim sistemi `Windows 10 Pro`, kendisini `WSL` ile birlikte kullanıyorum, zira buradaki çoğu ayar WSL için yazıldı.
 
 ## Install
 
-**NOTE: ** Script hazır değil.
+**NOTE:** Script hazır değil.
 
 ```bash
 $ ./install.sh
@@ -70,7 +70,7 @@ $ ./install.sh
 
 Bazı ufak programlar .bin klasöründe tutuluyor, Bu klasör hem Windows hem Linux `PATH`'inde tanımlanıyor.
 
-**NOTE: ** `.cmd` uzantılı dosyalar `Windows` için.
+**NOTE:** `.cmd` uzantılı dosyalar `Windows` için.
 
 Bazı scriptler sadece Linux için yazılmış olabiliyor, Örneğin `diff-so-fancy` `perl` ile yazılmış. Bu binary'i kullanmak için `.cmd` dosyası açıp `perl` programı ile dosyayı execute ettiriyoruz. Böylelikle program windows ile uyumlu çalışıyor.
 

@@ -1,11 +1,3 @@
-# Phinx for etom-framework
-phinx() {
-    docker-compose -f kokpit.minimalistic.yml run --rm kokpit-minimalistic-phinx /composer/vendor/bin/phinx $1 $2 $3 $4 $5 $6 $7 $8 $9 }
-
-phinx-migrations() {
-   docker-compose -f kokpit.minimalistic.yml run --rm kokpit-minimalistic-phinx /composer/vendor/bin/phinx-migrations $1 $2 $3 $4 $5 $6 $7 $8 $9
-}
-
 # File Explorer
 explorer() {
    thunar $1 $2 $3 $4 $5 $6 $7 $8 $9
